@@ -1,3 +1,3 @@
-C:/Users/Usuario/Documents/GitHub/pueba-Ingrid/pruebita/cmake-build-debug/CMakeFiles/pruebita.dir
-C:/Users/Usuario/Documents/GitHub/pueba-Ingrid/pruebita/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Usuario/Documents/GitHub/pueba-Ingrid/pruebita/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Lenovo/Documents/GitHub/pueba-Ingrid/pruebita/cmake-build-debug/CMakeFiles/pruebita.dir
+C:/Users/Lenovo/Documents/GitHub/pueba-Ingrid/pruebita/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/GitHub/pueba-Ingrid/pruebita/cmake-build-debug/CMakeFiles/rebuild_cache.dir

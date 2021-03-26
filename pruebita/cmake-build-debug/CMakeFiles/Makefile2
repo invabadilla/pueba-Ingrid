@@ -54,19 +54,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f
+RM = "C:\Program Files\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Usuario\Documents\GitHub\pueba-Ingrid\pruebita
+CMAKE_SOURCE_DIR = C:\Users\Lenovo\Documents\GitHub\pueba-Ingrid\pruebita
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Usuario\Documents\GitHub\pueba-Ingrid\pruebita\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Lenovo\Documents\GitHub\pueba-Ingrid\pruebita\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -93,14 +93,14 @@ clean: CMakeFiles/pruebita.dir/clean
 CMakeFiles/pruebita.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pruebita.dir\build.make CMakeFiles/pruebita.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pruebita.dir\build.make CMakeFiles/pruebita.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Usuario\Documents\GitHub\pueba-Ingrid\pruebita\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target pruebita"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Lenovo\Documents\GitHub\pueba-Ingrid\pruebita\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target pruebita"
 .PHONY : CMakeFiles/pruebita.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pruebita.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Usuario\Documents\GitHub\pueba-Ingrid\pruebita\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Lenovo\Documents\GitHub\pueba-Ingrid\pruebita\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pruebita.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Usuario\Documents\GitHub\pueba-Ingrid\pruebita\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Lenovo\Documents\GitHub\pueba-Ingrid\pruebita\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pruebita.dir/rule
 
 # Convenience name for target.
